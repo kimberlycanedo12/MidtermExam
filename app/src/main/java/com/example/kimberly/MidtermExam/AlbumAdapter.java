@@ -1,4 +1,4 @@
-package com.example.joane14.midtermexam;
+package com.example.kimberly.MidtermExam;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -19,7 +19,7 @@ import java.net.URL;
 import java.util.List;
 
 /**
- * Created by Joane14 on 13/02/2017.
+ * Created by kimberlycanedo on 13/02/2017.
  */
 
 public class AlbumAdapter extends RecyclerView.Adapter<AlbumAdapter.ViewHolder>{
@@ -95,7 +95,7 @@ public class AlbumAdapter extends RecyclerView.Adapter<AlbumAdapter.ViewHolder>{
     }
 
 
-    Bitmap drawable_from_url(String url) throws java.net.MalformedURLException, java.io.IOException {
+    Bitmap drawable_from_url(String url) throws java.io.IOException {
         Bitmap x;
 
         HttpURLConnection connection = (HttpURLConnection)new URL(url) .openConnection();

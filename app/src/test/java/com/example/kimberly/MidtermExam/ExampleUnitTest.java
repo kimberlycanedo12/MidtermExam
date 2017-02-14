@@ -1,4 +1,4 @@
-package com.example.joane14.midtermexam;
+package com.example.kimberly.MidtermExam;
 
 import org.junit.Test;
 

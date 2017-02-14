@@ -1,8 +1,7 @@
-package com.example.joane14.midtermexam;
+package com.example.kimberly.MidtermExam;
 
 import android.app.ProgressDialog;
 import android.content.Context;
-import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -18,7 +17,6 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.EditText;
-import android.widget.SearchView;
 import android.widget.TextView;
 import android.widget.Toast;
 

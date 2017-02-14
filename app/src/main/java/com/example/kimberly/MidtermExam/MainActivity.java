@@ -1,18 +1,11 @@
-package com.example.joane14.midtermexam;
+package com.example.kimberly.MidtermExam;
 
-import android.app.Fragment;
-import android.content.Context;
-import android.net.wifi.WifiManager;
-import android.support.v4.app.FragmentManager;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.Log;
-import android.view.Menu;
-import android.view.MenuItem;
-import android.view.View;
-import android.widget.Toast;
+import android.support.v7.app.AppCompatActivity;
 
-public class MainActivity extends AppCompatActivity {
+import com.example.kimberlycanedo.MidtermExam.R;
+
+public class  MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -1,9 +1,9 @@
-package com.example.joane14.midtermexam;
+package com.example.kimberly.MidtermExam;
 
 import android.graphics.Bitmap;
 
 /**
- * Created by Joane14 on 13/02/2017.
+ * Created by kimberlycanedo on 13/02/2017.
  */
 
 public class Album {
